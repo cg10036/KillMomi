@@ -1,0 +1,7 @@
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\bin\Debug\KillMomi.exe.config
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\bin\Debug\KillMomi.exe
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\bin\Debug\KillMomi.pdb
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\obj\Debug\KillMomi.csprojAssemblyReference.cache
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\obj\Debug\KillMomi.csproj.CoreCompileInputs.cache
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\obj\Debug\KillMomi.exe
+C:\Users\Sunrin\source\repos\KillMomi\KillMomi\obj\Debug\KillMomi.pdb
