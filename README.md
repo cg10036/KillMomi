@@ -10,7 +10,7 @@ Momi is software that terminates an unacceptable program (such as a game).
 
 + Resume all suspended processes
 
-+ Bypass school firewall with vpn (thanks to chika.kr)
++ Bypass school firewall with vpn (thanks to Evans ChikaVPN)
 ```
 ## Bugs
 ```diff
